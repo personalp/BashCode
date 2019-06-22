@@ -1,0 +1,9 @@
+ls
+pwd;whoami;
+touch new file
+pwd
+cd ~
+gdb --version
+man fork()
+man fgets
+
